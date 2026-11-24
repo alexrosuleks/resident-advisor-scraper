@@ -1,0 +1,14 @@
+{
+  "startUrls": [
+    {
+      "url": "https://ra.co/events/uk/london"
+    }
+  ],
+  "maxItems": 20,
+  "proxyConfiguration": {
+    "useScrapelyProxy": true,
+    "scrapelyProxyGroups": [
+      "DATACENTER"
+    ]
+  }
+}

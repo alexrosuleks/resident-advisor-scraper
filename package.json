@@ -1,0 +1,20 @@
+{
+  "name": "resident-advisor-scraper",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Resident Advisor Events Scraper: Scrape Resident Advisor (ra.co) events by city, club or artist: dates, venues, lineups, genres, ticket prices. No login needed. Export JSON, CSV or Excel.",
+  "main": "example.js",
+  "scripts": {
+    "start": "node example.js"
+  },
+  "keywords": [
+    "scraper",
+    "web-scraping",
+    "scrapely",
+    "ra"
+  ],
+  "dependencies": {
+    "scrapely-client": "^2.25.15"
+  },
+  "license": "MIT"
+}
